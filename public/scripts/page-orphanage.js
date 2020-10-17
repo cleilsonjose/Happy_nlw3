@@ -22,6 +22,7 @@ const icon = L.icon({
     popupAnchor: [170,2]
 })
 
+
 //create and add marker
 L.marker([-7.0815329,-41.4792878],{icon})
 .addTo(map);
